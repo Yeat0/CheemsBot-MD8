@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -23,22 +23,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['27698908814'] //ur owner number
 global.ownernomer = "27698908814" //ur owner number2
-global.ownername = "Mikyle" //ur owner name
+global.ownername = "Nexx" //ur owner name
 global.ytname = "INSTA: xii.kyle" //ur yt chanel name
 global.socialm = "GitHub: Yeat0" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "South Africa" //ur location
 
 //new
-global.botname = "NPC AFS2.0"
+global.botname = "Nexx"
 global.ownernumber = '27698908814'
-global.ownername = 'Mikyle'
+global.ownername = 'TheRealNexx'
 global.ownerNumber = ["27698908814@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
 global.wm = "Coco Dev Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botscript = 'https://github.com/Yeat0/CheemsBot-MD8/' //script link
 global.packname = "Sticker By Coco"
 global.author = "MIIMII\n\n"
 global.creator = "27698908814@s.whatsapp.net"
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: 'life.', 
 }
 
 let file = require.resolve(__filename)
